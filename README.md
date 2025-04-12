@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! I'm Kevin Chang(errorinarrow)</h1>
 <h3 align="center">A CS student in NCKU from Taiwan.</h3>
 
-- 🌱 I’m currently learning **Japanese and linux**
+- 🌱 I’m currently learning **Japanese and pytorch**
 
 - 📝 Language 中文 / English / 日本語(少し)
 
